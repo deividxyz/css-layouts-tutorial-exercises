@@ -1,4 +1,20 @@
 /* your code here */
-.h2 {display:none;
+.h2 {
+	display: none;
+}
 
+#myFirstH2 {
+	visibility: hidden; /* visibility permite el tener el mantener el espacio */
+}
+
+#mySecondH2 {
+	display: none; /*display permite desaparecer todo 8*/
+}
+
+li {
+	display: inline;
+}
+
+strong {
+	display: block;
 }

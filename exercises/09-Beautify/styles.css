@@ -1,3 +1,7 @@
+.container {
+	margin: auto;
+}
+
 #div1 {
 	background-color: red;
 	width: 150px;
@@ -26,4 +30,20 @@
 	text-align: center;
 	overflow: hidden;
 	border-radius: 25px;
+}
+
+#block {
+	display: block;
+}
+
+.blueish {
+	background-color: blue !important;
+}
+
+.redish {
+	background-color: red !important;
+}
+
+.blackish {
+	background-color: black !important;
 }
