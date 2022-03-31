@@ -1,5 +1,27 @@
 /* your code here */
+.wrapper {
+	font-size: 20pt;
+	margin-left: auto;  /*centrado*/
+	margin-right: auto;
+	width: 90%;
+}
 
+header {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+nav {
+	float: left;
+	margin-right: 1%;
+	width: 19%;
+}
+
+section {
+	margin-left: 1%;
+	float: right;
+	width: 79%;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/
